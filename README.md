@@ -11,11 +11,11 @@ this app was built partially using GPT to see how I possibly could integrate LLM
 - **TODO** Add build instructions
 
 ## credits
-FFMPEG: https://ffmpeg.org/
-YTDLP: https://github.com/yt-dlp/yt-dlp
-pyperclip: https://github.com/asweigart/pyperclip
-pystray: https://github.com/moses-palmer/pystray
-winotify: https://github.com/versa-syahptr/winotify
-pyinstaller: https://pyinstaller.org/en/stable/
+- FFMPEG: https://ffmpeg.org/
+- YTDLP: https://github.com/yt-dlp/yt-dlp
+- pyperclip: https://github.com/asweigart/pyperclip
+- pystray: https://github.com/moses-palmer/pystray
+- winotify: https://github.com/versa-syahptr/winotify
+- pyinstaller: https://pyinstaller.org/en/stable/
 
-app icon: me, i made it.
+- app icon: me, i made it.
